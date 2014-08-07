@@ -8,6 +8,8 @@ yg
 * ~~CherryPy setup~~
 * ~~Serve index page~~
 * Serve JSON
+* http://docs.cherrypy.org/en/latest/basics.html#configuring
+* http://docs.cherrypy.org/en/latest/tutorials.html#tutorial-4-submit-this-form
 
 * Set up db + connection
 
